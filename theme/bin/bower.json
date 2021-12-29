@@ -1,0 +1,25 @@
+{
+  "name": "cpod-theme",
+  "homepage": "https://bitbucket.org/miguelsneto/cpod",
+  "version": "1.0.0",
+  "license": "GNU General Public License v2 or later",
+  "private": true,
+  "authors": [
+    "Miguel Muller <miguel.sneto[at]devim.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "git://github.com/twbs/bootstrap-sass.git#~3.1.0",
+    "jquery": "~2.1.0",
+    "jqueryui": "~1.10.4",
+    "validationEngine": "~2.6.4",
+    "animate.css": "~3.0.0",
+    "Aqua-Resizer": "https://github.com/syamilmj/Aqua-Resizer.git",
+    "superslides": "~0.6.2",
+    "jquery.countdown": "~2.0.4"
+  }
+}
